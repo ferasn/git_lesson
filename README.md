@@ -9,3 +9,5 @@ A fourth change to the file
 -----
 This is my change
 -----
+
+++ local change
